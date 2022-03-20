@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "MyBatis 조건검색 랭킹 쿼리문 예제"
 ---
 
