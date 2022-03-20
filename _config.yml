@@ -103,8 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Jin Valentine"
-  avatar           : "![JEONGJINUK](https://user-images.githubusercontent.com/77107216/159169632-17dd09ed-cf92-4543-a537-26a27d7fd478.jpg)
-"
+  avatar           : "https://user-images.githubusercontent.com/77107216/159169632-17dd09ed-cf92-4543-a537-26a27d7fd478.jpg"
   bio              : "배울 것도 많고 할 것도 많고..."
   location         : "South Korea"
   email            : "wlsdnr214@gmail.com"
