@@ -1,9 +1,9 @@
 ---
-layout: single
-title:  "mybatis 조건검색 랭킹 쿼리문 예제"
+layout: post
+title:  "MyBatis 조건검색 랭킹 쿼리문 예제"
 ---
 
-### mybatis를 이용한 검색과 랭킹 쿼리문
+### MyBatis를 이용한 검색과 랭킹 쿼리문
 
 mybatis를 이용하는 첫 프로젝트에서 쿼리문을 이용한 기능 중 몇 개를 가져와보았다.
 
