@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinuk Jeong"
+  name             : "Jin Valentine"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "배울 것도 많고 할 것도 많고..."
   location         : "South Korea"
   email            : "wlsdnr214@gmail.com"
   links:
