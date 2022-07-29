@@ -47,8 +47,8 @@ list.count(value)         # list에서 value의 개수를 셀 때
 - list의 순서 및 정렬
 
 ```Python
-list.reverse() # 순서 뒤집기
-list.sort() # 오름차순 정렬
+list.reverse()          # 순서 뒤집기
+list.sort()             # 오름차순 정렬
 list.sort(reverse=True) # 내림차순 정렬
 ```
 
