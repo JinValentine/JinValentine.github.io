@@ -1,6 +1,7 @@
 ---
 layout: single
-title:  "[MyBatis] 조건검색 랭킹 쿼리문 구현"
+title: "[MyBatis] 조건검색 랭킹 쿼리문 구현"
+categoreis: MyBatis
 ---
 
 ### MyBatis를 이용한 검색과 랭킹 쿼리문

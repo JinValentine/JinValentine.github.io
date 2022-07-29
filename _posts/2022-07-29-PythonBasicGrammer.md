@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Python] 파이썬 간단한 문법"
-date: 2022-07-29
+categories: Python
 ---
 
 ### [Python] 파이썬 간단한 문법
