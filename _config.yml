@@ -15,12 +15,12 @@
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "ko-kr"
-title: "Jin Valentine의 공부일기장"
-title_separator: "-"
+locale: "ko-KR"
+title: "Jin Valentine"
+title_separator: "|"
 subtitle: # site tagline that appears below site title in masthead
 name: "JinValentine"
-description: "An amazing website."
+description: "Jin Valentine의 개발일기장입니다."
 url: "https://jinvalentine.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "JinValentine/jinvalentine.github.io"
