@@ -4,7 +4,7 @@ title: "[Python] 파이썬 간단한 문법"
 categories: Python
 ---
 
-### [Python] 파이썬 간단한 문법
+# [Python] 파이썬 간단한 문법
 
 ---
 
