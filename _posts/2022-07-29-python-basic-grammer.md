@@ -4,10 +4,6 @@ title: "[Python] 파이썬 간단한 문법"
 categories: Python
 ---
 
-# [Python] 파이썬 간단한 문법
-
----
-
 - 줄바꿈 없이 출력
 
 ```python
