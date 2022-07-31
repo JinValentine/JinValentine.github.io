@@ -126,6 +126,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none; // 각 포스터 하이퍼링크 처리 제거를 위해
+
   &:focus {
     @extend %tab-focus;
   }
