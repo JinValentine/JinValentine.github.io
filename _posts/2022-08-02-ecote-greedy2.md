@@ -4,7 +4,7 @@ title: "[그리디] 이코테 - 무지의 먹방 라이브"
 categories: Algorithm
 ---
 
-## 우선순위 큐와 heapq모듈을 이용한 그리디 알고리즘 문제 풀이
+## 우선순위 큐와 heapq모듈을 이용한 그리디 알고리즘 문제
 
 ## 문제
 
@@ -109,3 +109,7 @@ def solution(food_times, k):
 
 본 문제는 **프로그래머스**에서 테스트가 가능하며 결과 확인이 가능합니다.
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42891?language=python3)
+
+### 참조
+
+이것이 취업을 위한 코딩 테스트다 with 파이썬 (한빛미디어, 나동빈)
