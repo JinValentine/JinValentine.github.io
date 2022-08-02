@@ -109,8 +109,8 @@ def solution(food_times, k):
     return result[(k - sum_value) % length][1]
 ```
 
-본 문제는 **프로그래머스**에서 테스트가 가능하며 결과 확인이 가능합니다.
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42891?language=python3)
+본 문제는 **프로그래머스**에서 테스트가 가능하며 결과 확인이 가능합니다.  
+<span style='background-color:#f1f8ff'>[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42891?language=python3)</span>
 
 ---
 
