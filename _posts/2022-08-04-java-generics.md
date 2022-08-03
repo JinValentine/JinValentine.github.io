@@ -107,11 +107,11 @@ List<Object> objectList = new ArrayList<Integer>();
 
 #### 와일드카드의 제한
 
-- \<?\> 모든 타입이 가능 \<? extends Objects\>와 동일
+- \<?\> : 모든 타입이 가능 \<? extends Objects\>와 동일
 
-- \<? extends (제한할 타입)\> 제한할 타입과 그것의 하위 타입만 가능
+- \<? extends (제한할 타입)\> : 제한할 타입과 그것의 하위 타입만 가능
 
-- \<? super (제한할 타입)\> 제한할 타입과 그것의 상위 타입만 가능
+- \<? super (제한할 타입)\> : 제한할 타입과 그것의 상위 타입만 가능
 
 ---
 
