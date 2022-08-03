@@ -2,6 +2,7 @@
 layout: single
 title: "[Java] 자바 제네릭(Generic)"
 categories: Java
+use_math: true
 ---
 
 ## 제네릭(Generic)이란 무엇일까?

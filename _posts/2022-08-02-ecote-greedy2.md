@@ -2,6 +2,7 @@
 layout: single
 title: "[그리디] 이코테 - 무지의 먹방 라이브"
 categories: Algorithm
+use_math: true
 ---
 
 ## 우선순위 큐와 heapq모듈을 이용한 그리디 알고리즘 문제
