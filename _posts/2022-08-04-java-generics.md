@@ -77,13 +77,13 @@ public <T extends food> T pizza(List<T> list){}
 공변(covariant) : A가 B의 하위 타입일 때, T\<A> 가 T\<B>의 하위 타입이면 T는 공변
 불공변(invariant) : A가 B의 하위 타입일 때, T\<A> 가 T\<B>의 하위 타입이 아니면 T는 불공변
 
-배열에서는 Integer $ \rightarrow $ Object 가능 (배열은 공변)
+배열에서는 Integer $\rightarrow$ Object 가능 (배열은 공변)
 
 ```java
 Object[] objectArray = new Integer[1];
 ```
 
-제네릭에서는 Integer $ \rightarrow $ Object 불가능 Complie Error 발생!! (제네릭은 불공변)
+제네릭에서는 Integer $\rightarrow$ Object 불가능 Complie Error 발생!! (제네릭은 불공변)
 
 ```java
 List<Object> objectList = new ArrayList<Integer>();
