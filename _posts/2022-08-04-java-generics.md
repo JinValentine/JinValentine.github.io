@@ -2,6 +2,7 @@
 layout: single
 title: "[Java] 자바 제네릭(Generic)"
 categories: Java
+published: true
 use_math: true
 ---
 
