@@ -2,6 +2,7 @@
 layout: single
 title: "[Java] 자바 제네릭(Generic)"
 categories: Java
+tag: [java, generic]
 published: true
 use_math: true
 ---
@@ -15,8 +16,7 @@ use_math: true
 
 ![2](https://user-images.githubusercontent.com/77107216/182593435-02146b43-72de-4549-8960-b5a4def1d648.png)
 
-이와 같이 CrudController을 상속받을 때 제네릭클래스를 이용하여 소스코드를 간편하게 리팩토링을 하는 것을 보고  
-제네릭클래스에 대해 제대로 알고 싶어져 공부해보았다.
+이와 같이 CrudController을 상속받을 때 제네릭클래스를 이용하여 소스코드를 간편하게 리팩토링을 하는 것을 보고 제네릭클래스에 대해 제대로 알고 싶어져 공부해보았다.
 
 ---
 
@@ -122,4 +122,4 @@ https://www.youtube.com/watch?v=n28M8iryFPw
 https://opentutorials.org/module/516/6237  
 https://vvshinevv.tistory.com/55?category=692309
 
-잘못된 정보가 기재되어있을 경우 피드백해주시면 감사하겠습니다!
+잘못된 정보 또는 오타가 기재되어있을 경우 피드백해주시면 감사하겠습니다!

@@ -2,6 +2,7 @@
 layout: single
 title: "[MyBatis] 조건검색 랭킹 쿼리문 구현"
 categories: MyBatis
+tag: mybatis
 ---
 
 ## MyBatis를 이용한 조건검색기능과 리뷰점수 랭킹순 정렬기능 구현

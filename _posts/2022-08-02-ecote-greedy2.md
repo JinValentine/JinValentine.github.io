@@ -2,6 +2,7 @@
 layout: single
 title: "[그리디] 이코테 - 무지의 먹방 라이브"
 categories: Algorithm
+tag: [python, algorithm, greedy]
 use_math: true
 ---
 

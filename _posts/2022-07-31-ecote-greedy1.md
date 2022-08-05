@@ -2,6 +2,7 @@
 layout: single
 title: "[그리디] 이코테 - 볼링공 고르기"
 categories: Algorithm
+tag: [python, algorithm, greedy]
 ---
 
 ## 경우의 수를 구하는 그리디 알고리즘 문제

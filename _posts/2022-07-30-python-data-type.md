@@ -2,6 +2,7 @@
 layout: single
 title: "[Python] 파이썬 튜플, 사전, 집합 자료형"
 categories: Python
+tag: [python, data type]
 ---
 
 ## 파이썬을 공부하며 배운 자료구조에 대한 설명

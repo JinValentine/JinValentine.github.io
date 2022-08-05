@@ -2,6 +2,7 @@
 layout: single
 title: "[Python] 파이썬 간단한 문법"
 categories: Python
+tag: python
 ---
 
 ## 알고리즘 공부를 하며 배운 파이썬의 간단한 문법들
