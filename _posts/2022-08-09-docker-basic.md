@@ -25,7 +25,7 @@ published: true
 
 ## 명령어들
 
-```shell script
+```shell
 docker images # pull한 image들 확인
 
 docker run (image) # 실행(run)해서 container로 만들기
@@ -71,7 +71,7 @@ Docker에서 Web Server를 구축할 때는 Container의 Port와 Host의 Port는
 Docker환경에서는 Host안에 Container가 있기 때문에 아파치 Web Server가 들어있는 컨테이너의 index.html를
 불러오기 위해서는 Host의 포트번호와 Container의 포트번호를 연결시켜야 index.html을 불러올 수 있다.
 
-```shell script
+```shell
 docker run -p (Host의 포트번호):(Container의 포트번호) httpd # port forwarding이라고 부른다.
 ```
 
@@ -94,7 +94,7 @@ volume을 사용하게 되면 Host의 파일 시스템과 Container의 파일을
 
 ### volume의 명령어
 
-```shell script
+```shell
 docker run -it -v (호스트 디렉토리):(컨테이너의 volume 디렉토리) (이미지) /bin/bash
 ```
 
@@ -102,7 +102,7 @@ docker run -it -v (호스트 디렉토리):(컨테이너의 volume 디렉토리)
 
 volume을 활용해 새로운 Apache 컨테이너를 생성하고 Host 파일시스템과 연결하여 index.html의 내용을 변경해보았다.
 
-```shell script
+```shell
 docker run -p 8001:80 -v C:\Users\(유저이름)\Desktop\htdocs:/usr/local/apache2/htdocs/ httpd
 ```
 
