@@ -81,7 +81,7 @@ Apache(httpd)의 index.html은 컨테이너 안 /usr/local/apache2/htdocs/ 경�
 
 index.html를 수정하기 위해서는 에디터가 직접 설치해야한다. (컨테이너는 저용량을 추구하기 때문에 에디터가 없다.)
 
-```shell script
+```shell
 apt -update
 apt install (에디터)
 ```
