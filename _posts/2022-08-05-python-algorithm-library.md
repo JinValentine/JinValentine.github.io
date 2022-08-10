@@ -77,8 +77,9 @@ print(result)
 ```
 
 **추가 내용**
-permutations와 같이 기능을 하고 데이터를 중복해서 뽑고 싶다면 **product** 클래스를 이용하자
-combinations와 같이 기능을 하고 데이터를 중복해서 뽑고 싶다면 **combinations_with_replacement** 클래스를 이용하자
+
+- **permutations**와 같이 기능을 하고 데이터를 **중복**해서 뽑고 싶다면 **product** 클래스를 이용하자
+- **combinations**와 같이 기능을 하고 데이터를 **중복**해서 뽑고 싶다면 **combinations_with_replacement** 클래스를 이용하자
 
 ---
 
