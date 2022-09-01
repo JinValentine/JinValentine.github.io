@@ -12,7 +12,7 @@ published: true
 
 ## 문제링크
 
-백준 11729번
+백준 11729번  
 [문제링크 바로가기](https://www.acmicpc.net/problem/11729)
 
 ---
