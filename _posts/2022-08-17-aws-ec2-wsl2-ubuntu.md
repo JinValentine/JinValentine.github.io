@@ -68,6 +68,8 @@ chmod 400를 사용해 권한을 변경 해주면 되는데 **WSL2는 chmod를 �
 sudo umount /mnt/c
 sudo mount -t drvfs C: /mnt/c -o metadata
 ```
+/mnt/c 디렉토리에서 해당 명령어 실행시 프로세스가 이미 실행 중이기에 **target is busy**라는 메세지가 발생한다.
+이 때는 cd ...으로 디렉토리 밖으로 나와서 명령어를 실행해주어야 한다.
 
 chmod 400으로 파일 권한을 설정해주자
 
