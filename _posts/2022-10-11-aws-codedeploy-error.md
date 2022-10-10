@@ -12,8 +12,7 @@ published: true
 
 CI/CD를 위해 Github Action으로 S3에 zip파일을 저장, 보관하고 CodeDeploy로 배포를 하는 과정이였다.  
 Github Action에서는 무사히 성공했다고 나오지만 EC2 서버에는 배포되어야할 파일이 디렉토리를 확인해보니 없었다..
-![github action 성공](https://user-images.githubusercontent.com/77107216/194933624-a4e89b04-04df-4bb2-a383-94df958c1726.png)
-
+![github action 성공](https://user-images.githubusercontent.com/77107216/194939456-0886d54c-5057-48d1-aa2b-64b1cbee6888.png)
 문제를 찾기 위해 AWS에 접속해 CodeDeploy 배포 과정을 살펴보니 배포 중에 오류가 발생한 것이였다.
 ![오류발생](https://user-images.githubusercontent.com/77107216/194933621-5647842b-c26c-47df-88eb-84f9c09d837e.png)
 
