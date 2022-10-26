@@ -48,7 +48,9 @@ published: true
 
 ---
 
-[메모리의 구조](http://www.tcpschool.com/c/c_memory_structure)
+### 참조
+
+[메모리의 구조](http://www.tcpschool.com/c/c_memory_structure)  
 [혼자 공부하는 컴퓨터구조+운영체제](http://www.yes24.com/Product/Goods/111378840)
 
 **잘못된 정보 또는 오타가 기재되어있을 경우 피드백해주시면 감사하겠습니다!**
