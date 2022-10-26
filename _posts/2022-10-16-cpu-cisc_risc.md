@@ -2,7 +2,7 @@
 layout: single
 title: "[CS] CPU의 CISC와 RISC"
 categories: CS
-tag: [CS, CPU]
+tag: [cs, cpu]
 published: true
 ---
 
@@ -45,5 +45,9 @@ RISC(Reduced Instruction Set Computer)
 사용 가능한 명령어 개수가 CISC보다 적기 때문에 RISC는 CISC보다 많은 명령으로 프로그램을 작동시킨다.
 
 ---
+
+### 참조
+
+[혼자 공부하는 컴퓨터구조+운영체제](http://www.yes24.com/Product/Goods/111378840)
 
 **잘못된 정보 또는 오타가 기재되어있을 경우 피드백해주시면 감사하겠습니다!**
