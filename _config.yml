@@ -16,14 +16,14 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "ko-KR"
-title: "Jin Valentine"
+title: "jinvalentine의 지식 저장소"
 title_separator: "|"
-subtitle: "공부를 했으면 기록을 하자"
-name: "JinValentine"
-description: "Jin Valentine의 개발일기장입니다."
+subtitle: "persistently"
+name: "jinvalentine"
+description: "jinvalentine의 지식 저장소"
 url: "https://jinvalentine.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "JinValentine/jinvalentine.github.io"
+repository: "jinvalentine/jinvalentine.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -33,7 +33,7 @@ words_per_minute: 200
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname: "JinValentine"
+    shortname: "jinvalentine"
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -107,9 +107,9 @@ author:
   location: "South Korea"
   email: "wlsdnr214@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "wlsdnr214@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "wlsdnr214@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JinValentine"
