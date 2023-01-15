@@ -16,14 +16,14 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "ko-KR"
-title: "jinvalentine의 지식 저장소"
+title: "jinugi214's blog"
 title_separator: "|"
-subtitle: "Knowlegde is power and money"
-name: "jinvalentine"
-description: "jinvalentine의 지식 저장소"
-url: "https://jinvalentine.github.io"
+subtitle: "Slow and Steady Wins the Race"
+name: "jinugi214"
+description: ""
+url: "https://jinugi214.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "jinvalentine/jinvalentine.github.io"
+repository: "jinugi214/jinugi214.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -33,7 +33,7 @@ words_per_minute: 200
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname: "jinvalentine"
+    shortname: "jinugi214"
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -101,8 +101,8 @@ analytics:
     anonymize_ip: false
 # Site Author
 author:
-  name: "Jin Valentine"
-  avatar: "https://user-images.githubusercontent.com/77107216/183073922-a8a8bba6-399e-44ea-90c4-dfe9c1a6708f.jpg"
+  name: "jinugi214"
+  avatar: "https://user-images.githubusercontent.com/77107216/212545502-0040adf9-2c57-4357-9aed-b91309a74de4.jpg"
   bio: ":)"
   location: "South Korea"
   links:
@@ -111,13 +111,13 @@ author:
       url: "wlsdnr214@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JinValentine"
+      url: "https://github.com/jinugi214"
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JinValentine"
+      url: "https://github.com/jinugi214"
 
 # Reading Files
 include:
